@@ -1,0 +1,47 @@
+{
+  "companyName": "Plenty O' Pizza",
+  "headOffice": "Barrie, Ontario",
+  "established": 2019,
+  "active": true,
+  "pizzaTypes": [
+    {
+      "name": "Classic Pepperoni",
+      "price" : 9.75,
+      "crust": "thin",
+      "calories": 1290, 
+      "toppings": [
+        "cheese",
+        "pepperoni"
+      ],
+      "image": "pizza-1.jog"
+    },
+    {
+      "name": "Veggie Delight",
+      "price" : 12.95,
+      "crust": "thick",
+      "calories": 1400, 
+      "toppings": [
+        "cheese",
+        "green olives", 
+        "tomatoes", 
+        "pineapple", 
+        "spinach", 
+        "onions"
+      ],
+      "image": "pizza-2.jpg"
+    },
+    {
+      "name": "Hawaiian",
+       "price" : 10.95,
+      "crust": "thin",
+      "calories": 1300, 
+      "toppings": [
+        "extra cheese",
+        "ham", 
+        "pineapple", 
+      ],
+     
+      "image": "pizza-3.svg"
+    }
+  ]
+}
