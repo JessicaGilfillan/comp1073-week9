@@ -13,7 +13,7 @@
         "cheese",
         "pepperoni"
       ],
-      "image": "pizza-1.jog"
+      "image": "pizza-1.jpg"
     },
     {
       "name": "Veggie Delight",
@@ -41,7 +41,7 @@
         "pineapple" 
       ],
      
-      "image": "pizza-3.svg"
+      "image": "pizza-3.jpg"
     }
   ]
 }
