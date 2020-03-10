@@ -1,8 +1,4 @@
 {
-  "companyName": "Plenty O' Pizza",
-  "headOffice": "Barrie, Ontario",
-  "established": 2019,
-  "active": true,
   "pizzaTypes": [
     {
       "name": "Classic Pepperoni",
