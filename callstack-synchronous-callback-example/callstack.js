@@ -51,13 +51,13 @@ When running the example, open your JavaScript console then click the button —
 
 Async callbacks are functions that are specified as arguments when calling a function which will start executing code in the background. When the background code finishes running, it calls the callback function to let you know the work is done, or to let you know that something of interest has happened. Using callbacks is slightly old-fashioned now, but you'll still see them in use in a number of older-but-still-commonly-used APIs. */
 
-btn.addEventListener('click', () => {
+/*btn.addEventListener('click', () => {
   alert('You clicked me!');
 
   let pElem = document.createElement('p');
   pElem.textContent = 'This is a newly-added paragraph.';
   document.body.appendChild(pElem);
-});
+});*/
 
 //The first parameter is the type of event to be listened for, and the second parameter is a callback function that is invoked when the event is fired.
 
